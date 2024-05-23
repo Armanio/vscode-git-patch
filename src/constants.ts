@@ -1,6 +1,6 @@
 export const GP = {
-    SUCCESS_CREATE_PATCH: 'Patch successfully created !',
-    SUCCESS_APPLY_PATCH: 'Patch applied successfully !',
+    SUCCESS_CREATE_PATCH: 'Patch successfully created!',
+    SUCCESS_APPLY_PATCH: 'Patch applied successfully!',
     FAILED_CREATE_PATCH: 'Unable to create a patch.',
     FAILED_APPLY_PATCH: 'Error while applying a patch.',
     ERROR_NO_FILE_NAME: 'You must mention a file name.',
